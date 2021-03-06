@@ -37,7 +37,7 @@ conda deactivate
 ### Step 1: 
 Clone the repository into your system by: 
 ```bash 
-git clone https://github.com/DevilAeron/Drowsiness-Detection-System.git
+git clone https://github.com/Abhi10398/Drowsiness-Detection-System.git
 ```
 Or directly download the zip.
 
